@@ -1,0 +1,3 @@
+Rejected: BAD,LINE
+Valid records: 2
+Rejected records: 1

@@ -1,0 +1,21 @@
+TaskB1/PassStore
+[P1003, 192311003, Divya, 7, 3800.0]
+null
+
+TaskB2/SqlInjectionAnalysis
+Unsafe SQL shape: SELECT * FROM users WHERE id='admin' OR '1'='1' AND pwd='wrong'
+PreparedStatement SQL: SELECT * FROM users WHERE id=? AND pwd=?
+Safe parameters are bound as data; they cannot change SQL structure.
+Damaged CSV cases: wrong field count, non-numeric route/amount, empty line -> skip and log.
+
+TaskB3/BatchLoaderCompileTest
+PassLoader JDBC transaction/batch source compiled.
+Live insert tests require MySQL server and JDBC driver.
+
+TaskB4/PassMigration
+Set DB_URL, DB_USER and DB_PASSWORD to run migration.
+
+TaskB1/BufferBenchmark
+1MB lines=36158 unbuffered_ms=574 buffered_ms=22 verified=true
+10MB lines=361578 unbuffered_ms=5020 buffered_ms=66 verified=true
+50MB lines=1807890 unbuffered_ms=25201 buffered_ms=302 verified=true

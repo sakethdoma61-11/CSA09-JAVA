@@ -1,0 +1,3 @@
+JDK: OpenJDK 21
+All Java source files in task folders compiled successfully with javac.
+Console demos executed: PassStore, LineCounter, SqlSafetyDemo, MigrationDecision. JDBC classes compiled but require a configured MySQL server/driver for runtime tests.

@@ -1,0 +1,3 @@
+Unsafe SQL concatenates attacker input: SELECT * FROM users WHERE id='' OR '1'='1' AND pwd='x'
+PreparedStatement: SELECT * FROM users WHERE id=? AND pwd=?
+Parameters remain data, not executable SQL.

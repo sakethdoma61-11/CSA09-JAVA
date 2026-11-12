@@ -1,0 +1,3 @@
+1MB lines=36158 unbuffered_ms=574 buffered_ms=22 verified=true
+10MB lines=361578 unbuffered_ms=5020 buffered_ms=66 verified=true
+50MB lines=1807890 unbuffered_ms=25201 buffered_ms=302 verified=true

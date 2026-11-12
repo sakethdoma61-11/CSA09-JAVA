@@ -1,0 +1,2 @@
+Unbuffered lines: 3
+Buffered lines: 3
