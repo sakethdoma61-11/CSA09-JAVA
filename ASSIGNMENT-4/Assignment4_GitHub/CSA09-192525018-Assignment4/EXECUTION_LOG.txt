@@ -1,0 +1,23 @@
+Task01: compiled; ran FeeWindowDesign
+Payment accepted for 192525018: 2500.0
+Enter register number
+Invalid amount
+
+Task02: compiled; ran AppointmentModel
+[Dr Rao, Dr Iyer]
+Appointment confirmed: P100 / Dr Rao / 10:30
+Patient ID required
+
+Task04: compiled; ran DrawPadLogicTest
+Stored points: 2
+First point: java.awt.Point[x=20,y=30]
+Repaint model retains points: true
+
+Task05: compiled; ran ConverterLogicTest
+USD 1000 INR: 12.00
+Invalid input: Invalid amount
+
+Task06: compiled; ran EventRegistrationServiceTest
+Normal registration: true
+Duplicate registration rejected: true
+Invalid blank ID rejected: true

@@ -1,0 +1,3 @@
+JDK: OpenJDK 21
+All Java source files in task folders compiled successfully with javac.
+GUI windows launched under Xvfb; screenshots are live window captures. Interactive test evidence still needs to be repeated on the student's desktop.
